@@ -1,7 +1,7 @@
-const stringLength = (str) => {
-  return str.length;
-};
+// const stringLength = (str) => {
+//   return str.length;
+// };
 
-module.exports = {
-  stringLength,
-};
+// module.exports = {
+//   stringLength,
+// };
