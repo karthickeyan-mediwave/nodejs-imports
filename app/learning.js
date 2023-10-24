@@ -45,7 +45,7 @@ app.post("/", (req, res) => {
     name: req.body.name,
   });
   return res.json({
-    message: "trainees added sucesssfully",
+    message: "trainee added sucesssfully",
   });
 });
 
